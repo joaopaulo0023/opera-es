@@ -1,0 +1,5 @@
+streamlit
+pandas
+numpy
+plotly
+sqlite3  # opcional, pois já vem com Python
